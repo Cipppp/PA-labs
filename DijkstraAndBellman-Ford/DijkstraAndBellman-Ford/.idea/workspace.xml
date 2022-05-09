@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40420c6e-4c14-46e2-8987-2a02e2a9fe7b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DijkstraAndBellman-Ford.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/BellmanFord/BellmanFord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PA-homeworks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Greedy_algorithms/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Greedy_algorithms/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Greedy_algorithms/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Greedy_algorithms/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Greedy_algorithms/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Greedy_algorithms/Greedy_algorithms.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Greedy_algorithms/out/production/Greedy_algorithms/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Greedy_algorithms/out/production/Greedy_algorithms/KruskalAlgorithm$subset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Greedy_algorithms/out/production/Greedy_algorithms/KruskalAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Greedy_algorithms/out/production/Greedy_algorithms/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Greedy_algorithms/out/production/Greedy_algorithms/PrimAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Greedy_algorithms/src/Edge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Greedy_algorithms/src/KruskalAlgorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Greedy_algorithms/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Greedy_algorithms/src/PrimAlgorithm.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="28um9kA6IHbVBob8LbLF3Os6CFt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "MTConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40420c6e-4c14-46e2-8987-2a02e2a9fe7b" name="Changes" comment="" />
+      <created>1652074698558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652074698558</updated>
+      <workItem from="1652074701712" duration="1929000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
